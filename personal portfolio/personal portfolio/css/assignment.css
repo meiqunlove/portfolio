@@ -1,0 +1,14 @@
+
+body{
+    font-family: cursive;
+}
+
+
+.circle{
+    margin: 3rem auto;
+    background-color: antiquewhite;
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 125px;
+}
